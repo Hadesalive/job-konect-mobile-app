@@ -17,14 +17,14 @@ export default function ProfileScreen({ navigation }) {
         role: 'Senior React Native Developer',
         company: 'TechCorp Inc.',
         duration: 'Jan 2023 - Present',
-        logo: require('../../assets/images/avatar.webp')
+        logo: require('../../assets/illustrations/avatar_illustration_1.png')
       },
       {
         id: '2',
         role: 'React Native Developer',
         company: 'Mobile Solutions',
         duration: 'Mar 2020 - Dec 2022',
-        logo: require('../../assets/images/avatar.webp')
+        logo: require('../../assets/illustrations/avatar_illustration_1.png')
       }
     ],
     education: [
@@ -33,7 +33,7 @@ export default function ProfileScreen({ navigation }) {
         degree: 'Master of Computer Science',
         school: 'New York University',
         duration: '2018 - 2020',
-        logo: require('../../assets/images/avatar.webpg')
+        logo: require('../../assets/illustrations/avatar_illustration_2.png')
       }
     ],
     skills: ['React Native', 'JavaScript', 'TypeScript', 'Redux', 'React Navigation', 'Git', 'REST APIs', 'GraphQL'],
@@ -52,7 +52,7 @@ export default function ProfileScreen({ navigation }) {
       <ScrollView style={styles.scrollView}>
         <View style={styles.profileHeader}>
           <Image 
-            source={require('../../assets/images/avatar.webp')} 
+            source={require('../../assets/illustrations/avatar_illustration_1.png')} 
             style={styles.profileImage} 
           />
           <Text style={styles.profileName}>{profileData.name}</Text>

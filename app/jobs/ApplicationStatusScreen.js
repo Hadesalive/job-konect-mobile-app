@@ -1,6 +1,6 @@
+import React, { useState } from 'react';
+import { StyleSheet, View, Text, TouchableOpacity, Image, SafeAreaView, ScrollView } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
-import React from 'react';
-import { Image, SafeAreaView, ScrollView, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
 // Application Status screen
 export default function ApplicationStatusScreen({ navigation, route }) {

@@ -230,7 +230,7 @@ export const Avatar = ({
           style={[styles.avatarImage, sizeStyles[size]]}
         />
       ) : (
-        <FigmaIcon name="person" size={sizeStyles[size].width * 0.6} color="#CCCCCC" />
+        <Image source={require('../assets/illustrations/avatar_illustration_1.png')} style={[styles.avatarImage, sizeStyles[size]]} />
       )}
     </TouchableOpacity>
   );
