@@ -1,0 +1,597 @@
+[
+  {
+    "name": "Icon eye",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_eye.png",
+    "original_id": "1:74"
+  },
+  {
+    "name": "Icon eye",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_eye.png",
+    "original_id": "1:185"
+  },
+  {
+    "name": "Icon Locations",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_locations.png",
+    "original_id": "1:500"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:714"
+  },
+  {
+    "name": "Icon Remove",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_remove.png",
+    "original_id": "1:767"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:768"
+  },
+  {
+    "name": "Icon Search",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_search.png",
+    "original_id": "1:869"
+  },
+  {
+    "name": "Icon Location",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_location.png",
+    "original_id": "1:876"
+  },
+  {
+    "name": "Icon filter",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_filter.png",
+    "original_id": "1:883"
+  },
+  {
+    "name": "Icon Search",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_search.png",
+    "original_id": "1:995"
+  },
+  {
+    "name": "Icon filter",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_filter.png",
+    "original_id": "1:1238"
+  },
+  {
+    "name": "Icon Search",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_search.png",
+    "original_id": "1:1250"
+  },
+  {
+    "name": "Icon Design",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_design.png",
+    "original_id": "1:1265"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1280"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1299"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1313"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1334"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1348"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1450"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1459"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1464"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1474"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1485"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1494"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1499"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1509"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1520"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1529"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1534"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1544"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1585"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1594"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1599"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1609"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1659"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1775"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1866"
+  },
+  {
+    "name": "Icon Design",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_design.png",
+    "original_id": "1:1891"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1906"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1925"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1939"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1960"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:1974"
+  },
+  {
+    "name": "Icon filter",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_filter.png",
+    "original_id": "1:2045"
+  },
+  {
+    "name": "Icon Search",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_search.png",
+    "original_id": "1:2057"
+  },
+  {
+    "name": "Icon Notifications",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_notifications.png",
+    "original_id": "1:2063"
+  },
+  {
+    "name": "Icon Camera",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_camera.png",
+    "original_id": "1:2088"
+  },
+  {
+    "name": "icon picture",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_picture.png",
+    "original_id": "1:2092"
+  },
+  {
+    "name": "Icon Camera",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_camera.png",
+    "original_id": "1:2121"
+  },
+  {
+    "name": "icon picture",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_picture.png",
+    "original_id": "1:2125"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:2156"
+  },
+  {
+    "name": "Icon Search",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_search.png",
+    "original_id": "1:2521"
+  },
+  {
+    "name": "Icon Search",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_search.png",
+    "original_id": "1:2542"
+  },
+  {
+    "name": "Icon Search",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_search.png",
+    "original_id": "1:2662"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:2741"
+  },
+  {
+    "name": "Icon Search",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_search.png",
+    "original_id": "1:2769"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:2832"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:2836"
+  },
+  {
+    "name": "Icon Call",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_call.png",
+    "original_id": "1:2866"
+  },
+  {
+    "name": "Icon Search",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_search.png",
+    "original_id": "1:2869"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:2993"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:2999"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:3008"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:3016"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:3217"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:3346"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:3510"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:3524"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:3542"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:3694"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:3708"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:3720"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:3732"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:3761"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:3774"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:3789"
+  },
+  {
+    "name": "Icon Setting",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_setting.png",
+    "original_id": "1:3831"
+  },
+  {
+    "name": "Icon Shared",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_shared.png",
+    "original_id": "1:3839"
+  },
+  {
+    "name": "Icon Work experience",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_work_experience.png",
+    "original_id": "1:3868"
+  },
+  {
+    "name": "Icon About me",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_about_me.png",
+    "original_id": "1:3892"
+  },
+  {
+    "name": "Icon Education",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_education.png",
+    "original_id": "1:3912"
+  },
+  {
+    "name": "Icon Appreciation",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_appreciation.png",
+    "original_id": "1:3938"
+  },
+  {
+    "name": "Icon Remove",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_remove.png",
+    "original_id": "1:3966"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:3967"
+  },
+  {
+    "name": "Icon resume",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_resume.png",
+    "original_id": "1:3980"
+  },
+  {
+    "name": "Icon Skill",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_skill.png",
+    "original_id": "1:4019"
+  },
+  {
+    "name": "Icon Language",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_language.png",
+    "original_id": "1:4071"
+  },
+  {
+    "name": "Icon Setting",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_setting.png",
+    "original_id": "1:4114"
+  },
+  {
+    "name": "Icon Shared",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_shared.png",
+    "original_id": "1:4122"
+  },
+  {
+    "name": "Icon Search",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_search.png",
+    "original_id": "1:4658"
+  },
+  {
+    "name": "Icon Search",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_search.png",
+    "original_id": "1:4686"
+  },
+  {
+    "name": "Icon Search",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_search.png",
+    "original_id": "1:4715"
+  },
+  {
+    "name": "Icon Search",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_search.png",
+    "original_id": "1:4794"
+  },
+  {
+    "name": "Icon Search",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_search.png",
+    "original_id": "1:4883"
+  },
+  {
+    "name": "Icon Search",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_search.png",
+    "original_id": "1:4943"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:4956"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:4969"
+  },
+  {
+    "name": "Icon Add",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_add.png",
+    "original_id": "1:4981"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:4997"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:5010"
+  },
+  {
+    "name": "Icon Add",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_add.png",
+    "original_id": "1:5022"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:5330"
+  },
+  {
+    "name": "Icon Remove",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_remove.png",
+    "original_id": "1:5360"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:5361"
+  },
+  {
+    "name": "Icon calender",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_calender.png",
+    "original_id": "1:5379"
+  },
+  {
+    "name": "Icon Setting",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_setting.png",
+    "original_id": "1:5442"
+  },
+  {
+    "name": "Icon Shared",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_shared.png",
+    "original_id": "1:5450"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:5474"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:5488"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:5500"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:5534"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:5548"
+  },
+  {
+    "name": "Icon",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon.png",
+    "original_id": "1:5560"
+  },
+  {
+    "name": "Icon eye",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_eye.png",
+    "original_id": "1:5601"
+  },
+  {
+    "name": "Icon eye",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_eye.png",
+    "original_id": "1:5624"
+  },
+  {
+    "name": "Icon eye",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_eye.png",
+    "original_id": "1:5647"
+  },
+  {
+    "name": "Icon calender",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_calender.png",
+    "original_id": "1:5676"
+  },
+  {
+    "name": "Icon Setting",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_setting.png",
+    "original_id": "1:5739"
+  },
+  {
+    "name": "Icon Shared",
+    "path": "/home/ubuntu/job-konect-app/assets/icons/icon_shared.png",
+    "original_id": "1:5747"
+  }
+]
